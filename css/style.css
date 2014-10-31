@@ -1,0 +1,75 @@
+body{
+margin:0;
+padding:0;
+line-height: 1.5em;
+font-family:'Source Sans Pro', sans-serif;
+font-weight:300;
+}
+
+h4{
+	font-family:'Abril Fatface', cursive;
+}
+
+#headerlogo{
+	background: url("../img/pplogo.png") no-repeat center;
+	/*float:left;*/
+	/*margin-left:3%;*/
+	/*padding-left:10%;*/
+	max-width:100%;
+	height: 310px;
+	padding:1%;
+	margin-top:3%;
+	margin-bottom:4%;
+	/*margin-bottom: 100px;*/
+}
+
+#logopages{
+	background: url("../img/pplogo3.png") no-repeat ;
+	/*float:left;*/
+	/*margin-left:3%;*/
+	/*padding-left:10%;*/
+	max-width:100%;
+	height: 200px;
+	padding:1%;
+	margin-top:3%;
+	margin-bottom:4%;
+	/*margin-bottom: 100px;*/
+}
+
+#intro {
+	/*margin-top:1%;*/
+	/*margin-left:4%;
+	margin-right:4%;*/
+}
+
+#data{
+	display:block;
+	text-align:center;
+}
+
+.data {
+	text-align:center;
+
+}
+
+#timeline {
+	background-color:black;
+	text-align:center;
+}
+
+.timeline {
+	text-align:center;
+}
+
+.start {
+	font-family:'Abril Fatface', cursive;
+	float:right;
+	margin-right:1%;
+
+	/*display:inline-block;*/
+}
+
+a{
+	font-family:'Abril Fatface', cursive;
+	color:black;
+}
